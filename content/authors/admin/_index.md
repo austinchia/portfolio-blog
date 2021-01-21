@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Austin Chia Cheng En
+title: Austin Chia
 
 # Is this the primary user of the site?
 superuser: true
