@@ -28,13 +28,18 @@ feature:
   icon_pack: far
   name: Tableau
   
-- icon: fa-wordpress
+- icon: fab fa-wordpress
   icon_pack: fab
   name: Blogging
   
 - icon: heartbeat
   icon_pack: fas
   name: Healthcare Analytics  
+  
+- icon: fa-file-excel
+  icon_pack: far
+  name: Microsoft Excel
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
