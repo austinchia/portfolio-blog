@@ -32,4 +32,12 @@ item:
   title: Wiley Certified Data Analyst
   url: ""
 
+- certificate_url: https://www.youracclaim.com/badges/79089569-e35a-40cf-9190-f4a6cc6d30b5/linked_in_profile
+  date_end: ""
+  date_start: "2019-06-01"
+  description: ""
+  organization: Tableau Software
+  organization_url: https://www.tableau.com/
+  title: Tableau Author
+  url: ""
 ---
