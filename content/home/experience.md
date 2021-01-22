@@ -71,7 +71,7 @@ experience:
         
         Tools used: Tableau, Excel, SQL, MySQL Workbench, Google Sheets, Power Query, Google Analytics, Sketch, Firebase Analytics, Google Ads, Facebook Ads and App Annie
 
- - title: 'Founder & Analytics Blogger'
+  - title: 'Founder & Analytics Blogger'
     company: 'AnyInstructor'
     company_url: 'https://www.anyinstructor.com'
     location: 'Singapore'
@@ -89,7 +89,7 @@ experience:
         
         Tools Used: Wordpress, Google Analytics, Ezoic Ads, YouTube, Instagram, Facebook
 
- - title: 'Medical Services Intern'
+  - title: 'Medical Services Intern'
     company: 'HealthServe'
     company_url: 'https://www.healthserve.org.sg/'
     location: Singapore
@@ -107,7 +107,7 @@ experience:
 
         Tools Used: Google Sheets, Global Health Byte Clinic Management System
 
- - title: 'Bio Data Science Intern'
+  - title: 'Bio Data Science Intern'
     company: 'School of Biological Sciences, Nanyang Technological University (NTU)'
     company_url: 'https://gohwils.github.io/biodatascience/'
     location: 'Singapore'
