@@ -45,7 +45,7 @@ experience:
     location: Singapore
     date_start: '2020-03'
     date_end: '2020-09'
-    description: 
+    description: |2-
         Achievements:
         * Initiated 6 interactive dashboards for clinic operations optimization and insight
         * Built data pipelines to extract multi-source data for daily KPI metric dashboards using MySQL and Tableau
@@ -60,7 +60,7 @@ experience:
     location: Singapore
     date_start: '2020-05'
     date_end: ''
-    description: 
+    description: |2-
         AnyInstructor.com - a self-started resource blog on data science & analytics
         
         * Researched and wrote 30 data analytics-focused content articles to-date using Wordpress
@@ -78,8 +78,8 @@ experience:
     location: Singapore
     date_start: '2020-01'
     date_end: '2020-02'
-    description: 
-        Achievements:
+    description: |2-
+        Achievements: 
         * Built an automated medical inventory tracking system for >2000 PPE stock on Google Sheets
         * Created a dashboard report using Pivot Tables and Vlookup for monitoring PPE inventory
         * Operated clinic for health service delivery to 90-100 patients each week
@@ -95,16 +95,14 @@ experience:
     location: Singapore
     date_start: '2020-05'
     date_end: ''
-    description: 
-        Achievements:
-        * Built an automated medical inventory tracking system for >2000 PPE stock on Google Sheets
-        * Created a dashboard report using Pivot Tables and Vlookup for monitoring PPE inventory
-        * Operated clinic for health service delivery to 90-100 patients each week
-        * Ensured timely data collection for reporting over 6 weeks
-        * Collaborated with a 4-man team to draft 5 clinic quality improvements for the initial COVID-19 response
-        * Guided 15-20 volunteer healthcare workers on clinic processes
+    description: |2-
+        Research under Dr Wilson Goh's Bio-Data Science and Education Laboratory [Meta-analysis of Schizophrenia Bio-data Using Data Science Approaches]
+        * Extracted 3 transcriptomic RNAseq expression datasets (9000+ rows each) using Bioconductor in R
+        * Preprocessed, cleaned and prepared microarray data in R
+        * Conducted statistical bootstrapping of 1000 T-test iterations for significance analysis
+        * Evaluated model using a Confusion Matrix and F score and presented data analysis findings using R Markdown
+        * Collaborated with a team of 8 bio-data scientist researchers
 
-        Tools Used: Google Sheets, Global Health Byte Clinic Management System
-
+        Tools Used: R, RStudio, RMarkdown, Bioconductor
 
 ---
