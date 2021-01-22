@@ -29,7 +29,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-08-01'
     date_end: ''
-    description: 2-
+    description: |2-
         Achievements:
         
         * Automated data extraction from digital marketing and clinic data sources to Google Sheets, saving 10+ hours/week
