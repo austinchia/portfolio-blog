@@ -29,7 +29,10 @@ education:
   - course: Bsc in Biological Sciences
     institution: Nanyang Technological University
     year: 2021
-
+    
+  - course: Diploma in Biomedical Science
+    institution: Temasek Polytechnic
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
