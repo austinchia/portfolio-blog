@@ -25,9 +25,9 @@ feature:
 - icon: chart-bar
   icon_pack: far
   name: Tableau
-- icon: chart-bar
+- icon: wordpress
   icon_pack: far
-  name: Tableau  
+  name: Blogging  
 - icon: heartbeat
   icon_pack: fas
   name: Healthcare Analytics  
