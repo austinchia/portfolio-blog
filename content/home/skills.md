@@ -20,15 +20,23 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 90%
+  icon: chart-bar
+  icon_pack: far
+  name: Tableau
+- description: 90%
+  icon: chart-bar
+  icon_pack: far
+  name: Tableau  
+- description: 90%
+  icon: heartbeat
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
+  name: Healthcare Analytics  
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
