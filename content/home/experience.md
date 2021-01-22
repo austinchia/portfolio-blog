@@ -22,24 +22,89 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Data Analyst
+    company: Speedoc
+    company_url: 'https://speedoc.com/sg'
+    location: Singapore
+    date_start: '2020-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Achievements:
+        * Automated data extraction from digital marketing and clinic data sources to Google Sheets, saving 10+ hours/week
+        * Built 9 integrated Tableau dashboards from muilti-source data - app and clinic
+        * Coded in Python & SQL to produce 5 monthly reports from MySQL database, reducing 200% in process time
+        * Queried and processed NoSQL (MongoDB) app data for operations optimization
+        * Monitor reporting of app-related metrics and KPIs on Google Sheets
+        * Compiled ad-hoc reports from web-scraped data, app performance and HCW optimization
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
+        Tools used: Tableau, SQL, Excel, Python, MySQL, MongoDB, Google Sheets, Google Apps Script,
+
+  - title: Data Analytics Intern
     company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_url: 'https://speedoc.com/sg'
+    location: Singapore
+    date_start: '2020-03'
+    date_end: '2020-09'
+    description: 
+        Achievements:
+        * Initiated 6 interactive dashboards for clinic operations optimization and insight
+        * Built data pipelines to extract multi-source data for daily KPI metric dashboards using MySQL and Tableau
+        * Processed digital marketing data using Excel Pivot Tables and create digital marketing funnel reports
+        * Monitored ad campaign spend (SEM) data using Google Ads, Facebook Ads and UTM code tracking
+        * Conducted ad-hoc data analysis for cross-functional teams in operations, marketing and clinical
+        Tools used: Tableau, Excel, SQL, MySQL Workbench, Google Sheets, Power Query, Google Analytics, Sketch, Firebase Analytics, Google Ads, Facebook Ads and App Annie
+
+ - title: Founder & Analytics Blogger
+    company: AnyInstructor
+    company_url: 'https://www.anyinstructor.com'
+    location: Singapore
+    date_start: '2020-05'
+    date_end: ''
+    description: 
+        AnyInstructor.com - a self-started resource blog on data science & analytics
+        
+        * Researched and wrote 30 data analytics-focused content articles to-date using Wordpress
+        * Drove >200 pageviews of website SEO organic traffic within 3 months
+        * Monitored and analyzed 13 weekly site performance reports using Google Analytics
+        * Worked on webpage design for landing pages
+        * Created 14 image/video content pieces on Instagram, Facebook and YouTube
+        * Tracked social media analytics for page growth
+        
+        Tools Used: Wordpress, Google Analytics, Ezoic Ads, YouTube, Instagram, Facebook
+
+ - title: Medical Services Intern
+    company: HealthServe
+    company_url: 'https://www.healthserve.org.sg/'
+    location: Singapore
+    date_start: '2020-01'
+    date_end: '2020-02'
+    description: 
+        Achievements:
+        * Built an automated medical inventory tracking system for >2000 PPE stock on Google Sheets
+        * Created a dashboard report using Pivot Tables and Vlookup for monitoring PPE inventory
+        * Operated clinic for health service delivery to 90-100 patients each week
+        * Ensured timely data collection for reporting over 6 weeks
+        * Collaborated with a 4-man team to draft 5 clinic quality improvements for the initial COVID-19 response
+        * Guided 15-20 volunteer healthcare workers on clinic processes
+
+        Tools Used: Google Sheets, Global Health Byte Clinic Management System
+
+ - title: Bio Data Science Intern
+    company: School of Biological Sciences, Nanyang Technological University (NTU)
+    company_url: 'https://www.anyinstructor.com'
+    location: Singapore
+    date_start: '2020-05'
+    date_end: ''
+    description: 
+        Achievements:
+        * Built an automated medical inventory tracking system for >2000 PPE stock on Google Sheets
+        * Created a dashboard report using Pivot Tables and Vlookup for monitoring PPE inventory
+        * Operated clinic for health service delivery to 90-100 patients each week
+        * Ensured timely data collection for reporting over 6 weeks
+        * Collaborated with a 4-man team to draft 5 clinic quality improvements for the initial COVID-19 response
+        * Guided 15-20 volunteer healthcare workers on clinic processes
+
+        Tools Used: Google Sheets, Global Health Byte Clinic Management System
+
+
 ---
