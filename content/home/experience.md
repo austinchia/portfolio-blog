@@ -36,7 +36,6 @@ experience:
         * Modelling
         * Deploying
         
-experience:
   - title: 'Data Analyst'
     company: 'Speedoc'
     company_url: 'https://speedoc.com/sg'
