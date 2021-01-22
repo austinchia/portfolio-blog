@@ -36,7 +36,7 @@ feature:
   icon_pack: fas
   name: Healthcare Analytics  
   
-- icon: fa-file-excel
+- icon: far fa-file-excel
   icon_pack: far
   name: Microsoft Excel
 
