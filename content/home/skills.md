@@ -15,6 +15,7 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
 feature:
 - icon: r-project
   icon_pack: fab
@@ -27,19 +28,18 @@ feature:
 - icon: chart-bar
   icon_pack: far
   name: Tableau
-  
-- icon: fab fa-wordpress
-  icon_pack: fab
-  name: Blogging
+
+- icon: far fa-file-excel
+  icon_pack: far
+  name: Microsoft Excel 
   
 - icon: heartbeat
   icon_pack: fas
   name: Healthcare Analytics  
   
-- icon: far fa-file-excel
-  icon_pack: far
-  name: Microsoft Excel
-
+- icon: fab fa-wordpress
+  icon_pack: fab
+  name: Blogging
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
