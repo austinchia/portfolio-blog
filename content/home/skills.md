@@ -19,15 +19,19 @@ feature:
 - icon: r-project
   icon_pack: fab
   name: R
+  
 - icon: python
   icon_pack: fab
   name: Python
+  
 - icon: chart-bar
   icon_pack: far
   name: Tableau
+  
 - icon: wordpress
-  icon_pack: far
-  name: Blogging  
+  icon_pack: fab
+  name: Blogging
+  
 - icon: heartbeat
   icon_pack: fas
   name: Healthcare Analytics  
