@@ -29,7 +29,7 @@ feature:
   name: Tableau
   
 - icon: wordpress
-  icon_pack: fab
+  icon_pack: fas
   name: Blogging
   
 - icon: heartbeat
