@@ -29,14 +29,19 @@ experience:
     location: 'Singapore'
     date_start: '2020-08-01'
     date_end: ''
-    description: >-
+    description: 2-
         Achievements:
         
         * Automated data extraction from digital marketing and clinic data sources to Google Sheets, saving 10+ hours/week
+        
         * Built 9 integrated Tableau dashboards from muilti-source data - app and clinic
+        
         * Coded in Python & SQL to produce 5 monthly reports from MySQL database, reducing 200% in process time
+        
         * Queried and processed NoSQL (MongoDB) app data for operations optimization
+        
         * Monitor reporting of app-related metrics and KPIs on Google Sheets
+        
         * Compiled ad-hoc reports from web-scraped data, app performance and HCW optimization
         
         Tools used: Tableau, SQL, Excel, Python, MySQL, MongoDB, Google Sheets, Google Apps Script,
