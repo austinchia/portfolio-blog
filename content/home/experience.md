@@ -23,24 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
   - title: 'Data Analyst'
     company: 'Speedoc'
     company_url: 'https://speedoc.com/sg'
     location: 'Singapore'
-    date_start: '2020-08'
+    date_start: '2020-08-01'
     date_end: ''
     description: >-
         Achievements:
@@ -58,8 +45,8 @@ experience:
     company: 'Speedoc'
     company_url: 'https://speedoc.com/sg'
     location: 'Singapore'
-    date_start: '2020-03'
-    date_end: '2020-09'
+    date_start: '2020-03-01'
+    date_end: '2020-09-01'
     description: >-
         Achievements:
         
@@ -75,7 +62,7 @@ experience:
     company: 'AnyInstructor'
     company_url: 'https://www.anyinstructor.com'
     location: 'Singapore'
-    date_start: '2020-05'
+    date_start: '2020-05-01'
     date_end: ''
     description: >-
         AnyInstructor.com - a self-started resource blog on data science & analytics
@@ -93,8 +80,8 @@ experience:
     company: 'HealthServe'
     company_url: 'https://www.healthserve.org.sg/'
     location: Singapore
-    date_start: '2020-01'
-    date_end: '2020-02'
+    date_start: '2020-01-01'
+    date_end: '2020-02-01'
     description: >-
         Achievements: 
         
@@ -111,8 +98,8 @@ experience:
     company: 'School of Biological Sciences, Nanyang Technological University (NTU)'
     company_url: 'https://gohwils.github.io/biodatascience/'
     location: 'Singapore'
-    date_start: '2019-05'
-    date_end: '2019-08'
+    date_start: '2019-05-01'
+    date_end: '2019-08-01'
     description: >-
         Research under Dr Wilson Goh's Bio-Data Science and Education Laboratory [Meta-analysis of Schizophrenia Bio-data Using Data Science Approaches]
         
