@@ -60,11 +60,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I'm a personable, data-driven individual with a strong belief in utilizing my skills for touching lives. As such, my interests lie within the healthcare industry, biomedical informatics and biomedical data science. Currently a healthcare data analyst, I work on operations data for BI at a healthcare company. I'm also a Final-year Biological Sciences student in NTU.
 
-Most would agree that I'm a personable, data-driven individual with a strong belief in utilizing my skills for touching lives. As such, my interests lie in healthcare, biomedical informatics and biomedical data science. Currently a healthcare data analyst, I work on operations data for BI at a healthcare company. I'm also a Final-year Biological Sciences student in NTU.
-
-My internship experience in healthcare data analytics, medical services, bio-data science and marketing analytics have provided me exposure to the various applications of data science in healthcare. I actively take on student leadership roles, involving interpersonal communication, conflict resolution and project management.
+My internship experiences in healthcare data analytics, medical services, bio-data science and marketing analytics have provided me with greater insight to the various applications of data science in healthcare. I actively take on student leadership roles, involving interpersonal communication, conflict resolution and project management.
 
 I'm an avid self-learner and I enjoy exploring new skills. I also enjoy writing and have founded a data science & analytics skills blog - Anyinstructor.
+
+Currently Seeking: Full-time Data Analytics/Data Science positions (Jun 2021 Onwards)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
