@@ -44,7 +44,8 @@ experience:
         
         * Compiled ad-hoc reports from web-scraped data, app performance and HCW optimization
         
-        Tools used: Tableau, SQL, Excel, Python, MySQL, MongoDB, Google Sheets, Google Apps Script,
+        Tools used: 
+        * Tableau, SQL, Excel, Python, MySQL, MongoDB, Google Sheets, Google Apps Script,
 
   - title: 'Data Analytics Intern'
     company: 'Speedoc'
@@ -52,7 +53,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-03-01'
     date_end: '2020-09-01'
-    description: >-
+    description: |2-
         Achievements:
         
         * Initiated 6 interactive dashboards for clinic operations optimization and insight
@@ -61,7 +62,8 @@ experience:
         * Monitored ad campaign spend (SEM) data using Google Ads, Facebook Ads and UTM code tracking
         * Conducted ad-hoc data analysis for cross-functional teams in operations, marketing and clinical
         
-        Tools used: Tableau, Excel, SQL, MySQL Workbench, Google Sheets, Power Query, Google Analytics, Sketch, Firebase Analytics, Google Ads, Facebook Ads and App Annie
+        Tools used: 
+        * Tableau, Excel, SQL, MySQL Workbench, Google Sheets, Power Query, Google Analytics, Sketch, Firebase Analytics, Google Ads, Facebook Ads and App Annie
 
   - title: 'Founder & Analytics Blogger'
     company: 'AnyInstructor'
@@ -69,7 +71,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-05-01'
     date_end: ''
-    description: >-
+    description: |2-
         AnyInstructor.com - a self-started resource blog on data science & analytics
         
         * Researched and wrote 30 data analytics-focused content articles to-date using Wordpress
@@ -79,7 +81,8 @@ experience:
         * Created 14 image/video content pieces on Instagram, Facebook and YouTube
         * Tracked social media analytics for page growth
         
-        Tools Used: Wordpress, Google Analytics, Ezoic Ads, YouTube, Instagram, Facebook
+        Tools Used: 
+        * Wordpress, Google Analytics, Ezoic Ads, YouTube, Instagram, Facebook
 
   - title: 'Medical Services Intern'
     company: 'HealthServe'
@@ -87,7 +90,7 @@ experience:
     location: Singapore
     date_start: '2020-01-01'
     date_end: '2020-02-01'
-    description: >-
+    description: |2-
         Achievements: 
         
         * Built an automated medical inventory tracking system for >2000 PPE stock on Google Sheets
@@ -97,7 +100,8 @@ experience:
         * Collaborated with a 4-man team to draft 5 clinic quality improvements for the initial COVID-19 response
         * Guided 15-20 volunteer healthcare workers on clinic processes
 
-        Tools Used: Google Sheets, Global Health Byte Clinic Management System
+        Tools Used: 
+        * Google Sheets, Global Health Byte Clinic Management System
 
   - title: 'Bio Data Science Intern'
     company: 'School of Biological Sciences, Nanyang Technological University (NTU)'
@@ -105,7 +109,7 @@ experience:
     location: 'Singapore'
     date_start: '2019-05-01'
     date_end: '2019-08-01'
-    description: >-
+    description: |2-
         Research under Dr Wilson Goh's Bio-Data Science and Education Laboratory [Meta-analysis of Schizophrenia Bio-data Using Data Science Approaches]
         
         * Extracted 3 transcriptomic RNAseq expression datasets (9000+ rows each) using Bioconductor in R
@@ -114,6 +118,7 @@ experience:
         * Evaluated model using a Confusion Matrix and F score and presented data analysis findings using R Markdown
         * Collaborated with a team of 8 bio-data scientist researchers
 
-        Tools Used: R, RStudio, RMarkdown, Bioconductor
+        Tools Used:
+        * R, RStudio, RMarkdown, Bioconductor
 
 ---
