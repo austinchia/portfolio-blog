@@ -39,10 +39,10 @@ experience:
         
         Tools used: Tableau, SQL, Excel, Python, MySQL, MongoDB, Google Sheets, Google Apps Script,
 
-  - title: Data Analytics Intern
-    company: University X
+  - title: 'Data Analytics Intern'
+    company: 'Speedoc'
     company_url: 'https://speedoc.com/sg'
-    location: Singapore
+    location: 'Singapore'
     date_start: '2020-03'
     date_end: '2020-09'
     description: |2-
@@ -54,10 +54,10 @@ experience:
         * Conducted ad-hoc data analysis for cross-functional teams in operations, marketing and clinical
         Tools used: Tableau, Excel, SQL, MySQL Workbench, Google Sheets, Power Query, Google Analytics, Sketch, Firebase Analytics, Google Ads, Facebook Ads and App Annie
 
- - title: Founder & Analytics Blogger
-    company: AnyInstructor
+ - title: 'Founder & Analytics Blogger'
+    company: 'AnyInstructor'
     company_url: 'https://www.anyinstructor.com'
-    location: Singapore
+    location: 'Singapore'
     date_start: '2020-05'
     date_end: ''
     description: |2-
@@ -72,8 +72,8 @@ experience:
         
         Tools Used: Wordpress, Google Analytics, Ezoic Ads, YouTube, Instagram, Facebook
 
- - title: Medical Services Intern
-    company: HealthServe
+ - title: 'Medical Services Intern'
+    company: 'HealthServe'
     company_url: 'https://www.healthserve.org.sg/'
     location: Singapore
     date_start: '2020-01'
@@ -89,12 +89,12 @@ experience:
 
         Tools Used: Google Sheets, Global Health Byte Clinic Management System
 
- - title: Bio Data Science Intern
-    company: School of Biological Sciences, Nanyang Technological University (NTU)
-    company_url: 'https://www.anyinstructor.com'
-    location: Singapore
-    date_start: '2020-05'
-    date_end: ''
+ - title: 'Bio Data Science Intern'
+    company: 'School of Biological Sciences, Nanyang Technological University (NTU)'
+    company_url: 'https://gohwils.github.io/biodatascience/'
+    location: 'Singapore'
+    date_start: '2019-05'
+    date_end: '2019-08'
     description: |2-
         Research under Dr Wilson Goh's Bio-Data Science and Education Laboratory [Meta-analysis of Schizophrenia Bio-data Using Data Science Approaches]
         * Extracted 3 transcriptomic RNAseq expression datasets (9000+ rows each) using Bioconductor in R
