@@ -63,7 +63,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I'm a personable, data-driven individual with a strong belief in utilizing my skills for touching lives. As such, my interests lie within the healthcare industry, biomedical informatics and biomedical data science. Currently a healthcare data analyst, I work on operations data for BI at a healthcare company. I'm also a Final-year Biological Sciences student in NTU.
+I am a personable, data-driven individual with a strong belief in utilizing data in the healthcare industry or biomedical informatics. With proven 1-year internship experiences in data analytics, I am well-versed in the applications of data in business settings through use of R, Tableau, Structured Query Language (SQL), Microsoft Excel and Python.
+
+Presently, I am a healthcare data analyst, working part-time on operations data for BI at a healthtech firm alongside my college studies in the final-year of my Biological Sciences major studies in Nanyang Technological University.
 
 My internship experiences in healthcare data analytics, medical services, bio-data science and marketing analytics have provided me with greater insight to the various applications of data science in healthcare. I actively take on student leadership roles, involving interpersonal communication, conflict resolution and project management.
 
