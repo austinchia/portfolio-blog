@@ -68,9 +68,9 @@ I am a personable, data-driven individual with a strong belief in utilizing data
 
 Presently, I am a healthcare data analyst, working part-time on operations data for BI at a healthtech firm alongside my college studies in the final-year of my Biological Sciences major studies in [Nanyang Technological University](https://www.ntu.edu.sg/).
 
-Apart from work and studies, I also actively take on key student leadership roles. I am an avid self-learner and I enjoy exploring new skills. I also enjoy writing and have founded a data science & analytics skills blog - Anyinstructor.com. Through the several skills gained, I completed some personal projects in data science.
+Apart from work and studies, I also actively take on key student leadership roles. I am an avid self-learner and I enjoy exploring new skills. I also enjoy writing and have founded a data science & analytics skills blog - [Anyinstructor.com](https://anyinstructor.com/). Through the several skills gained, I completed some personal projects in data science.
 
-If any of my experiences and goals align with yours, feel free to contact me through email or through the buttons on the left. 
+If any of my experiences and goals align with yours, feel free to contact me through [email](mailto:austin.chia.ce@gmail.com) or through the buttons on the left. 
 
 Currently Seeking: Full-time Data Analytics/Data Science positions (Jun 2021 Onwards)
 
