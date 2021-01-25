@@ -28,7 +28,11 @@ feature:
 - icon: chart-bar
   icon_pack: far
   name: Tableau
-
+  
+- icon: fas fa-table
+  icon_pack: fas
+  name: SQL
+  
 - icon: far fa-file-excel
   icon_pack: far
   name: Microsoft Excel 
