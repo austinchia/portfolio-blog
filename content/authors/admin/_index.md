@@ -67,9 +67,9 @@ I am a personable, data-driven individual with a strong belief in utilizing data
 
 Presently, I am a healthcare data analyst, working part-time on operations data for BI at a healthtech firm alongside my college studies in the final-year of my Biological Sciences major studies in Nanyang Technological University.
 
-My internship experiences in healthcare data analytics, medical services, bio-data science and marketing analytics have provided me with greater insight to the various applications of data science in healthcare. I actively take on student leadership roles, involving interpersonal communication, conflict resolution and project management.
+Apart from work and studies, I also actively take on key student leadership roles, involving interpersonal communication, conflict resolution and project planning. I am an avid self-learner and I enjoy exploring new skills. I also enjoy writing and have founded a data science & analytics skills blog - Anyinstructor.com. Through the several skills gained, I completed some personal projects that have made an impact to me.
 
-I'm an avid self-learner and I enjoy exploring new skills. I also enjoy writing and have founded a data science & analytics skills blog - Anyinstructor.
+If any of my experiences and goals align with yours, feel free to contact me through email or through the buttons on the left. 
 
 Currently Seeking: Full-time Data Analytics/Data Science positions (Jun 2021 Onwards)
 
