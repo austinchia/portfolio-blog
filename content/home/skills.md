@@ -42,7 +42,7 @@ feature:
   name: Healthcare Analytics
   
 - icon: fas fa-dna
-  icon_pack: fab
+  icon_pack: fas
   name: Bioinformatics  
   
 - icon: fab fa-wordpress
