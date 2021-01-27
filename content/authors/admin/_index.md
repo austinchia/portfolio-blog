@@ -48,7 +48,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  
-- icon: fas fa-chart-line
+- icon: fas fa-chart-bar
   icon_pack: fas
   link: https://public.tableau.com/profile/austinchia
 
