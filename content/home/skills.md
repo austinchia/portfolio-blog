@@ -39,7 +39,11 @@ feature:
   
 - icon: heartbeat
   icon_pack: fas
-  name: Healthcare Analytics  
+  name: Healthcare Analytics
+  
+- icon: fas fa-dna
+  icon_pack: fab
+  name: Bioinformatics  
   
 - icon: fab fa-wordpress
   icon_pack: fab
