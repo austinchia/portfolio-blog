@@ -42,15 +42,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/austin-chia
+- icon: fas fa-chart-bar
+  icon_pack: fas
+  link: https://public.tableau.com/profile/austinchia  
 - icon: github
   icon_pack: fab
   link: https://github.com/austinchia
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  
-- icon: fas fa-chart-bar
-  icon_pack: fas
-  link: https://public.tableau.com/profile/austinchia
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
