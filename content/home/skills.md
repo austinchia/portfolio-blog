@@ -37,7 +37,7 @@ feature:
   icon_pack: far
   name: Microsoft Excel 
   
-- icon: heartbeat
+- icon: fas fa-laptop-medical
   icon_pack: fas
   name: Healthcare Analytics
   
