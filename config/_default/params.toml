@@ -112,7 +112,7 @@ office_hours = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@austcce"},
+  {icon = "linkedin", icon_pack = "fab", name = "Connect With Me", link = "https://www.linkedin.com/in/austin-chia/"},
   ]
 
 ############################
