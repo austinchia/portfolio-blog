@@ -14,7 +14,7 @@ organizations:
   url: https://www.speedoc.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I Provide insight to healthcare through data.
+bio: I give insight to healthcare through data.
 
 # Interests to show in About widget
 interests:
@@ -48,7 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  
-
+- icon: fas fa-chart-line
+  icon_pack: fas
+  link: https://public.tableau.com/profile/austinchia
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
