@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: 'Data Analyst'
+  - title: 'Data Analyst (Part-Time)'
     company: 'Speedoc'
     company_url: 'https://speedoc.com/sg'
     location: 'Singapore'
